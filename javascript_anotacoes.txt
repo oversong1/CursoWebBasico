@@ -1,0 +1,48 @@
+//javascript é um linguagem fracamente tipada
+//C# Linguagem fortemente Tipada
+
+// variavel = receber e pode variar ele ou alterar
+// var nome = "Emerson"; // "String"
+// var number = 33; // numero
+// var number2 = "33"; // string
+// console.log(nome)
+// console.log(typeof(number))
+// console.log(typeof(number2)) //tipo da variavel
+
+/* Existe 3 tipos de declarar algo*/
+// var variavel pode mudar de informação
+// let pode mudar a informação desde que nao esteja no mesmo escopo
+// const não pode mudar
+
+// const nome = "Emerson"; // não pode ser modificada e outro elemento nao pode ter o mesmo nome
+let nome = "Claudia"; //mundo
+
+//escopo mundo 2
+if(nome){
+    let nome = "Emerson";
+    document.write(nome + "<br>");
+    console.log(nome);
+}
+
+document.write(nome);
+console.log(nome);
+
+//Forma antiga
+        <button 
+            type="button"
+            onclick="document.getElementById('nome').innerHTML= Date()"
+        >
+        Botão
+        </button>
+
+
+//Forma antiga codigo direto no innerHTML
+<script>
+// var hora = document.getElementById("Hora");
+// var nome = document.getElementById("nome");
+
+// hora.addEventListener("click",()=>{
+//     nome.innerHTML=Date(); 
+// })
+
+</script>

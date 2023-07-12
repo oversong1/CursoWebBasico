@@ -1,0 +1,100 @@
+/* O ' * ' representa tudo */
+*{
+    margin: 0;
+    padding: 0;
+}
+#div1{
+    /* background: #f60; */
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    height: 50px;
+}
+
+ul {
+    text-decoration: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+  }
+  
+ul > li {
+list-style: none;
+margin-right: 40px;
+float: left;
+font-size: 20px;
+border: 1px solid #000;
+border-radius: 15px;
+margin: 10px;
+padding: 10px;
+}
+  
+.divClass1{
+    /* background: red; */
+}
+
+#div2{
+    /* background: rgb(106,90,205); */
+}
+
+/* #div2 > h1{
+    background: rgb(106,90,205);
+} */
+
+#div2 > h1 > a{
+    border: 1px solid #000;
+    /* color: #DAA520; */
+    text-decoration: none;
+}
+
+/* Inicio Body */
+#div2{
+    background-color: rgb(125, 139, 140);
+}
+#img{
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img{
+    width: 100%;
+    height: 400px;
+    background-image: url("../img/img_girl.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.textoH1{
+    font-size: 2.5vw;
+    font-weight: 100;
+    text-align: center;
+}
+.outra{
+    /* color: aqua; */
+    
+}
+
+.classeunica{
+    /* color: blue; */
+}
+
+
+/* Rodapé */
+.div3{
+    background-color: #856615;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer01{
+    
+}
+
+.footer01 > li{
+
+}

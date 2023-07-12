@@ -1,0 +1,48 @@
+Montar uma série de videoaulas que ensinarão, desde o básico, três linguagens obrigatórias: HTML, CSS e JavaScript. Agora, a pergunta que não quer calar: qual seria o diferencial dessas aulas e por que estou fazendo isso? Primeiramente, busco ensinar de forma nova e inovadora, utilizando as IA disponíveis no mercado e plataformas de ensino. Em segundo lugar, desejo compartilhar conhecimento e, ao mesmo tempo, ter relevância no campo da programação por meio de vídeos, nos quais demonstrarei meu trabalho e todas as possibilidades que a programação oferece.
+
+Aula 1 conceitos VsCode = ok
+anotações  aula 01 : crtl + Shift + botão direito do mouse,
+dentro da pasta abre o powershell, onde podemos dar o comando para abrir o VSCode
+
+Aula 2 conceitos basicos = Html, Css, JavaScript ou qualquer lingaguem = 
+anotções comando -> execução;
+
+//Anotaçao <> abertura do comando
+<>  Html
+    comando para ser executado
+    comando para ser executado
+    comando para ser executado
+    comando para ser executado = errado 
+    comando para ser executado
+    comando para ser executado
+
+</> //Anotaçao Fechamento do comando
+
+darCor  {}() [] ; <></>
+
+video aula 03 = ok 
+anotções =  html o css e o JavaScript todas elas podem trabalhar e em conjuntos
+html estrutra = pessoa
+css estilo = tamanho cor,largura vc diz cor de cabela
+JavaScript = a forma de interagir com as pessoas
+
+Video aula 05 = ok 
+anotações :
+Shift + Alt + seta Pra baixo = duplica a linha
+<!-- Comentario comentario de multiplas linhas --> html
+/**/ comentario de multiplas linhas: JavaScript e css
+// comentarios de uma linha : JavaScript e css
+
+Video Aula 06 = 
+anotações: Ctrl + ; = comentar linha
+head = nome da aba, versionado para pt-br,
+keys do head,
+body = nav= navegação,corpo do site ou da pagina,
+footer = complemento do rodape
+
+anotações:
+index é o primeiro arquivo a ser chaamdo e executado 
+quando um sistema de codigos é construido.
+
+padding = espaçamento interno  
+margin  = espaçamento externo 
